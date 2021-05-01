@@ -3,8 +3,8 @@
 @import 'abstracts/mixins';
 @import 'abstracts/placeholders';
 
-@import 'vendors/bootstrap';
-@import 'vendors/jquery-ui';
+@import 'vendors/scss/bootstrap.scss';
+//@import 'vendors/jquery-ui';
 
 @import 'base/reset';
 @import 'base/typography';
